@@ -7,9 +7,9 @@
 - 🥅 2020/2021 Goals: Contribute more to Open Source projects
 - ⚡ Interests: Finance, Economics, AI, Chess, Photography
 
-[![Ashine's github stats](https://github-readme-stats.vercel.app/api?username=AshineFoster&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashine's github stats](https://github-readme-stats.vercel.app/api?username=AshineFoster&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshineFoster&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshineFoster&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 
