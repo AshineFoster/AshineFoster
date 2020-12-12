@@ -5,10 +5,9 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other software engineers
 - 🥅 2020/2021 Goals: Contribute more to Open Source projects
-- ⚡ Intrests: Finance, Economics, AI, Chess, Photography
+- ⚡ Interests: Finance, Economics, AI, Chess, Photography
 
 ### Languages and Tools
-
 
 <img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
