@@ -7,6 +7,10 @@
 - 🥅 2020/2021 Goals: Contribute more to Open Source projects
 - ⚡ Interests: Finance, Economics, AI, Chess, Photography
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AshineFoster&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshineFoster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools
 
 <img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" />
