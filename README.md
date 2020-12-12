@@ -2,7 +2,7 @@
 
 ## I'm a Self-Taught Junior Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other software engineers
 - 🥅 2020/2021 Goals: Contribute more to Open Source projects
 - ⚡ Intrests: Finance, Economics, AI, Chess, Photography
