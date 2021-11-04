@@ -2,9 +2,9 @@
 
 ## I'm a Self-Taught Junior Developer
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m working through the [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science).
 - 👯 I’m looking to collaborate with other software engineers
-- 🥅 2020/2021 Goals: Contribute more to Open Source projects
+- 🥅 2021/2022 Goals: Contribute more to Open Source projects
 - ⚡ Interests: Finance, Economics, AI, Chess, Photography
 
 [![Ashine's github stats](https://github-readme-stats.vercel.app/api?username=AshineFoster&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
